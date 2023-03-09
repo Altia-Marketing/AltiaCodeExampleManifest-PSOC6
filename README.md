@@ -1,0 +1,1 @@
+# AltiaCodeExampleManifest-PSOC6
