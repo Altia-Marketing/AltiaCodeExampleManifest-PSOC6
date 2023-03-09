@@ -5,7 +5,7 @@
     <id>AltiaMultiIndustryDemo-PSoC6</id>
     <uri>https://github.com/Altia-Marketing/AltiaMultiIndustryDemo-PSoC6</uri>
     <description><![CDATA[This code example demonstrates Altia Multi-Industry GUI application PSoC™ 6 MCU 240x320 pixel display (CY8CKIT-028-TFT).
-    <br><br>For more details, see the <a href="https://github.com/Altia-Marketing/AltiaMultiIndustryDemo-PSoC6/blob/main/README.md">README on GitHub</a>.<br><br><a href="https://altia.com/">Altia</a> is a company that does tools and services around GUI engineering.<br> >>]]></description>
+    <br><br>For more details, see the <a href="https://github.com/Altia-Marketing/AltiaMultiIndustryDemo-PSoC6/blob/main/README.md">README on GitHub</a>.<br><br><a href="https://altia.com/">Altia</a> is a company that does tools and services around GUI engineering.<br>]]></description>
     <req_capabilities>psoc6</req_capabilities>
     <versions>
       <version flow_version="2.0" tools_min_version="2.4.0" req_capabilities_per_version="bsp_gen3">
