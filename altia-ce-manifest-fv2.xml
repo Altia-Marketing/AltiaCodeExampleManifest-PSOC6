@@ -3,7 +3,7 @@
     <name>altia-mtb-example-psoc6-multiindustry</name>
     <category>Graphics</category>
     <id>altia-mtb-example-psoc6-multiindustry</id>
-    <uri>https://github.com/Altia-Marketing/altia-mtb-example-psoc6-multiindustry/tree/renes</uri>
+    <uri>https://github.com/Altia-Marketing/altia-mtb-example-psoc6-multiindustry</uri>
     <description><![CDATA[This code example demonstrates Altia Multi-Industry GUI application PSoC™ 6 MCU 240x320 pixel display (CY8CKIT-028-TFT).
     <br><br>For more details, see the <a href="https://github.com/Altia-Marketing/altia-mtb-example-psoc6-multiindustry/blob/renes/README.md">README on GitHub</a>.<br><br><a href="https://altia.com/">Altia</a> is a company that does tools and services around GUI engineering.<br>]]></description>
     <req_capabilities>psoc6</req_capabilities>
