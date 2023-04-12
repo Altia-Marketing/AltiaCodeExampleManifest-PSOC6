@@ -1,6 +1,6 @@
 <apps version="2.0">
   <app keywords="psoc6,altia,multi-industy-demo" req_capabilities_v2="[cy8ckit_028_tft,cy8ckit_062s2_43012]">
-    <name>altia-mtb-example-psoc6-multiindustry</name>
+    <name>Altia TFT Multi-Industry Demo</name>
     <category>Graphics</category>
     <id>altia-mtb-example-psoc6-multiindustry</id>
     <uri>https://github.com/Altia-Marketing/altia-mtb-example-psoc6-multiindustry</uri>
